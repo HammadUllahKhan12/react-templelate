@@ -1,6 +1,6 @@
 ## Available Scripts
 
-In the project directory, you can run:
+Clone the repo and move towrads the project directory, and run the following commands:
 
 ### `npm i` then `npm start`
 
